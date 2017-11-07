@@ -1,0 +1,1 @@
+Solution to HackerRank "fibonacci-finding-easy" problem in mathematics/Number Theory section
